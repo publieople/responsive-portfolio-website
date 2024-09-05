@@ -18,10 +18,10 @@
     "download":"查看简历",
     "skills__title":"技能",
     "skills__subtitle":"技术水平",
-    "skills__years":"0年工作经验",
 
-    "skills__title2":"后端开发",
-    "skills__years2":"0年工作经验",
+    "skills__years":"0年工作经验",
+    "skills__title2":"技术支持",
+    "skills__years2":"4年工作经验",
 
     "qualification__title":"资历",
     "qualification__subtitle":"个人履历",
@@ -33,7 +33,7 @@
     "qualification2__subtitle":"自学",
     "qualification3__title":"网站开发",
     "qualification3__subtitle":"自学",
-    "qualification4__title":"软件工程师",
+    "qualification4__title":"无业学生",
     "qualification4__subtitle":"福建",
 
     "portfolio__title":"项目集",

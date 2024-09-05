@@ -18,10 +18,10 @@
     "download":"Download CV",
     "skills__title":"Skills",
     "skills__subtitle":"My technical level",
-    "skills__years":"More than 0 years",
 
-    "skills__title2":"Backend developer",
-    "skills__years2":"More than 0 years",
+    "skills__years":"More than 0 years",
+    "skills__title2":"Technical Support",
+    "skills__years2":"More than 4 years",
 
     "qualification__title":"Qualification",
     "qualification__subtitle":"My personal journey",
@@ -34,7 +34,7 @@
     "qualification3__title":"Web Development",
     "qualification3__subtitle":"Self-Study",
 
-    "qualification4__title":"Software Engineer",
+    "qualification4__title":"Unemployed student",
     "qualification4__subtitle":"FuJian",
 
     "portfolio__title":"Portfolio",
