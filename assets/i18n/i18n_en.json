@@ -34,8 +34,8 @@
     "qualification3__title":"Web Development",
     "qualification3__subtitle":"Self-Study",
 
-    "qualification4__title":"Unemployed student",
-    "qualification4__subtitle":"FuJian",
+    "qualification4__title":"Freshman ",
+    "qualification4__subtitle":"ShangHai",
 
     "portfolio__title":"Portfolio",
     "portfolio__subtitle":"Most recent works",
@@ -52,5 +52,5 @@
     "email":"E-mail",
     "email__address":"z2631792752@gmail.com",
     "location":"Location",
-    "location__detail":"FuJian , CHN"
+    "location__detail":"ShangHai , CHN"
 }
