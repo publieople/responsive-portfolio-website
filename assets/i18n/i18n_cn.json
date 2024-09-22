@@ -11,7 +11,7 @@
     "home__scroll-name":"往下滑",
     "about__title":"关于我",
     "about__subtitle":"简单介绍",
-    "about__description":"无业大一学生，INTP/INTJ，热爱编程",
+    "about__description":"大一学生，INTP/INTJ，热爱编程",
     "about__info-name1":"年工作<br/>经验",
     "about__info-name2":"完整<br/>项目",
     "about__info-name3":"公司 <br /> 任职",
@@ -33,8 +33,8 @@
     "qualification2__subtitle":"自学",
     "qualification3__title":"网站开发",
     "qualification3__subtitle":"自学",
-    "qualification4__title":"无业学生",
-    "qualification4__subtitle":"福建",
+    "qualification4__title":"大一新生",
+    "qualification4__subtitle":"上海",
 
     "portfolio__title":"项目集",
     "portfolio__subtitle":"近期项目",
@@ -52,6 +52,6 @@
     "email":"电子邮箱",
     "email__address":"z2631792752@gmail.com",
     "location":"位置",
-    "location__detail":"福建省"
+    "location__detail":"中国-上海"
     
 }
